@@ -1,3 +1,5 @@
+
+CLASE DWES
 Wagtail demo project
 =======================
 
